@@ -1,8 +1,12 @@
 <h2 align="center">👋 ¡Hola! Soy Fabiola Lozano</h2>
 
 <p align="center">
-  <<img width="1300" height="300" alt="Fabiola Lozano_azul" src="https://github.com/user-attachments/assets/427411fb-4c37-4efe-9ee5-b277196eacce" />
+  <![Fabiola Lozano](https://github.com/user-attachments/assets/eb90f27d-a268-406a-8016-a435f5bbda50)
 >
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eb90f27d-a268-406a-8016-a435f5bbda50" alt="Fabiola Lozano – Banner" width="100%">
 </p>
 
 
