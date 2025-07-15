@@ -1,9 +1,5 @@
-<h2 align="center">👋 ¡Hola! Soy Fabiola Lozano</h2>
+<h2 align="center">👋 ¡Hola! Soy Fabiloz</h2>
 
-<p align="center">
-  <![Fabiola Lozano](https://github.com/user-attachments/assets/eb90f27d-a268-406a-8016-a435f5bbda50)
->
-</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/eb90f27d-a268-406a-8016-a435f5bbda50" alt="Fabiola Lozano – Banner" width="100%">
