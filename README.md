@@ -1,16 +1,55 @@
-## Hi there 👋
+<h2 align="center">👋 ¡Hola! Soy Fabiola Lozano</h2>
 
-<!--
-**Fabiloz/Fabiloz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><video controls src="Fabiola Lozano_azul-1.mp4" title="Title"></video></p>
+
+
+------
+## 💫 Acerca de mí 
+
+- 🔭 Soy Ingeniera Industrial, una profesión que me apasiona y que me ha permitido desempeñarme en la mejora y optimización de procesos en diversas áreas.
+- 🐍 Recientemente finalicé un bootcamp en análisis de datos, donde adquirí conocimientos en herramientas como Python, SQL, Power BI, entre otras. Esta experiencia amplió mi horizonte profesional, permitiéndome trabajar en proyectos de análisis de datos y visualización estratégica.
+- 🌱 Me encuentro en constante práctica de herramientas como Python, Power BI, SQL y técnicas de visualización de datos y documentación de proyectos, con el objetivo de conectar datos con decisiones estratégicas.
+- 👯 Busco colaborar en iniciativas laborales que integren análisis de datos, optimización de procesos, storytelling visual y mejora continua.
+- 😄 Pronombres: ella / she
+- ⚡ Dato curioso: Me encanta asumir retos profesionales, y gracias a mi ingenio y creatividad, he logrado superarlos con éxito.
+
+------
+
+## 📫 Cómo contactarme:
+
+ * 💼 https://www.linkedin.com/in/fabiolalozano
+ * 📧 flozano0515@gmail.com
+ * 🔗 https://github.com/Fabiloz
+
+------
+
+### 🛠️ Tecnologías que utilizo
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+
+------
+### 🔝 Repositorios destacados
+
+- [PIRAMIPAGOS](https://github.com/Fabiloz/Python): Aplicación interactiva en Python para automatizar el cálculo de sueldos.
+- [Airbnb Data Analysis](https://github.com/Fabiloz/Procesamiento-ETL-con-Pandas-y-MongoDB-Atlas-Airbnb-): Proyecto de ETL de una base de datos de Airbnb para obtener insights clave sobre precios por tipo de alojamiento.
+- [Impacto de la pandemia en la educación colombiana](https://github.com/Fabiloz/Proyecto_Final): Análisis de datos públicos con enfoque social, donde se evaluó el abandono escolar antes, durante y después de la pandemia por COVID-19.
+
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabiloz&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fabiloz&theme=radical&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiloz&theme=radical&hide_border=false&layout=compact)
+
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Fabiloz&theme=radical&no-frame=true&no-bg=false&margin-w=4)
