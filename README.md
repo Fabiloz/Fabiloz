@@ -53,7 +53,7 @@
   </a>
 </p>
 
-<p align="center">
+
   <span style="display:inline-block; width:400px; text-align:center;">
     Aplicación interactiva en Python para automatizar el cálculo de sueldos.
   </span>
