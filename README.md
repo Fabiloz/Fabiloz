@@ -43,7 +43,7 @@
 ------
 ### 🔝 Repositorios destacados
 
-<p align="center">
+
   <a href="https://github.com/Fabiloz/Python">
     <img src="https://github.com/user-attachments/assets/477108db-ce75-4d52-85ce-518da26bf66b" alt="PIRAMIPAGOS" width="400"/>
   </a>
