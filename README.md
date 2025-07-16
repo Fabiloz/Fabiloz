@@ -41,6 +41,13 @@
 ------
 ### 🔝 Repositorios destacados
 
+<p align="center">
+  <a href="https://github.com/Fabiloz/Python">
+    <img src="<img width="600" height="320" alt="PIRAMIPAGOS" src="https://github.com/user-attachments/assets/477108db-ce75-4d52-85ce-518da26bf66b" />
+" alt="PIRAMIPAGOS" width="400"/>
+  </a>
+</p>
+
 - [PIRAMIPAGOS](https://github.com/Fabiloz/Python): Aplicación interactiva en Python para automatizar el cálculo de sueldos.
 - [Airbnb Data Analysis](https://github.com/Fabiloz/Procesamiento-ETL-con-Pandas-y-MongoDB-Atlas-Airbnb-): Proyecto de ETL de una base de datos de Airbnb para obtener insights clave sobre precios por tipo de alojamiento.
 - [Impacto de la pandemia en la educación colombiana](https://github.com/Fabiloz/Proyecto_Final): Análisis de datos públicos con enfoque social, donde se evaluó el abandono escolar antes, durante y después de la pandemia por COVID-19.
