@@ -54,19 +54,19 @@
 </p>
 
 
-  <span style="display:inline-block; width:400px; text-align:center;">
+ <p align="center">
+  <span style="display:block; width:70%; text-align:center; margin:10px auto;">
     Aplicación interactiva en Python para automatizar el cálculo de sueldos.
   </span>
-  &nbsp;&nbsp;&nbsp;
-  <span style="display:inline-block; width:400px; text-align:center;">
+  <span style="display:block; width:70%; text-align:center; margin:10px auto;">
     Análisis de datos públicos con enfoque social, donde se evaluó el abandono escolar antes, durante y después de la pandemia por COVID-19.
   </span>
 </p>
 
+## Otros repositorios
 
-- [PIRAMIPAGOS](https://github.com/Fabiloz/Python): Aplicación interactiva en Python para automatizar el cálculo de sueldos.
 - [Airbnb Data Analysis](https://github.com/Fabiloz/Procesamiento-ETL-con-Pandas-y-MongoDB-Atlas-Airbnb-): Proyecto de ETL de una base de datos de Airbnb para obtener insights clave sobre precios por tipo de alojamiento.
-- [Impacto de la pandemia en la educación colombiana](https://github.com/Fabiloz/Proyecto_Final): Análisis de datos públicos con enfoque social, donde se evaluó el abandono escolar antes, durante y después de la pandemia por COVID-19.
+- [Predicción de Supervivencia de Pasajeros del Titanic](https://github.com/Fabiloz/Machine-Learning): Un análisis comparativo con modelos de Machine Learning para predecir la supervivencia de pasajeros en el Titanic.
 
 
 ## 📊 GitHub Stats
