@@ -43,22 +43,24 @@
 ------
 ### 🔝 Repositorios destacados
 
+ <p align="center">
   <a href="https://github.com/Fabiloz/Python">
     <img src="https://github.com/user-attachments/assets/477108db-ce75-4d52-85ce-518da26bf66b" alt="PIRAMIPAGOS" width="400"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Fabiloz/Proyecto_Final">
-    <img src="https://github.com/user-attachments/assets/<img width="640" height="400" alt="Abandono escolar" src="https://github.com/user-attachments/assets/f3eed89a-4c0b-4153-820d-dd5090a8bdce" />
-" alt="Educación en Pandemia" width="400"/>
+    <img src="https://github.com/user-attachments/assets/f3eed89a-4c0b-4153-820d-dd5090a8bdce" alt="Educación en Pandemia" width="400"/>
   </a>
 </p>
 
-
-
-
-  <a href="https://github.com/Fabiloz/Python">
-    <img src="https://github.com/user-attachments/assets/477108db-ce75-4d52-85ce-518da26bf66b" alt="PIRAMIPAGOS" width="400"/>
-  </a>
+<p align="center">
+  <span style="display:inline-block; width:400px; text-align:center;">
+    Aplicación interactiva en Python para automatizar el cálculo de sueldos.
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span style="display:inline-block; width:400px; text-align:center;">
+    Análisis de datos públicos con enfoque social, donde se evaluó el abandono escolar antes, durante y después de la pandemia por COVID-19.
+  </span>
 </p>
 
 
