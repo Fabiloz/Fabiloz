@@ -37,16 +37,18 @@
 ![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 
 ------
 ### 🔝 Repositorios destacados
 
 <p align="center">
   <a href="https://github.com/Fabiloz/Python">
-    <img src="<img width="600" height="320" alt="PIRAMIPAGOS" src="https://github.com/user-attachments/assets/477108db-ce75-4d52-85ce-518da26bf66b" />
-" alt="PIRAMIPAGOS" width="400"/>
+    <img src="https://github.com/user-attachments/assets/477108db-ce75-4d52-85ce-518da26bf66b" alt="PIRAMIPAGOS" width="400"/>
   </a>
 </p>
+
 
 - [PIRAMIPAGOS](https://github.com/Fabiloz/Python): Aplicación interactiva en Python para automatizar el cálculo de sueldos.
 - [Airbnb Data Analysis](https://github.com/Fabiloz/Procesamiento-ETL-con-Pandas-y-MongoDB-Atlas-Airbnb-): Proyecto de ETL de una base de datos de Airbnb para obtener insights clave sobre precios por tipo de alojamiento.
