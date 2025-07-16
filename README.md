@@ -43,29 +43,24 @@
 ------
 ### 🔝 Repositorios destacados
 
- <p align="center">
+<p align="center">
   <a href="https://github.com/Fabiloz/Python">
     <img src="https://github.com/user-attachments/assets/477108db-ce75-4d52-85ce-518da26bf66b" alt="PIRAMIPAGOS" width="400"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Fabiloz/Proyecto_Final">
-    <img src="https://github.com/user-attachments/assets/f3eed89a-4c0b-4153-820d-dd5090a8bdce" alt="Educación en Pandemia" width="400"/>
+    <img src="https://github.com/user-attachments/assets/0f30e837-6cfe-45c5-9975-5701bf1813f5" alt="Educación en Pandemia" width="400"/>
   </a>
 </p>
 
+- PIRAMIPAGOS: Aplicación interactiva en Python para automatizar el cálculo de sueldos.
 
- <p align="center">
-  <span style="display:block; width:70%; text-align:center; margin:10px auto;">
-    Aplicación interactiva en Python para automatizar el cálculo de sueldos.
-  </span>
-  <span style="display:block; width:70%; text-align:center; margin:10px auto;">
-    Análisis de datos públicos con enfoque social, donde se evaluó el abandono escolar antes, durante y después de la pandemia por COVID-19.
-  </span>
-</p>
+- Impacto de la pandemia en la educación colombiana : Análisis de datos públicos con enfoque social, donde se evaluó el abandono escolar antes, durante y después de la pandemia por COVID-19.
 
 ## Otros repositorios
 
 - [Airbnb Data Analysis](https://github.com/Fabiloz/Procesamiento-ETL-con-Pandas-y-MongoDB-Atlas-Airbnb-): Proyecto de ETL de una base de datos de Airbnb para obtener insights clave sobre precios por tipo de alojamiento.
+  
 - [Predicción de Supervivencia de Pasajeros del Titanic](https://github.com/Fabiloz/Machine-Learning): Un análisis comparativo con modelos de Machine Learning para predecir la supervivencia de pasajeros en el Titanic.
 
 
